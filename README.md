@@ -8,13 +8,13 @@
 
 ### 2、热门仓库
 <!-- 更多置顶卡片 -->
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Lonely-Mr-zhang/github_1s_vscode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lonely-Mr-zhang&repo=github_1s_vscode"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Lonely-Mr-zhang/label-image-react">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lonely-Mr-zhang&repo=label-image-react"/>
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Lonely-Mr-zhang/Lonely-Mr-zhang.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lonely-Mr-zhang&repo=Lonely-Mr-zhang.github.io"/>
 </a>
 
